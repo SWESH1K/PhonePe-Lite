@@ -75,9 +75,8 @@ def getPin(username,count=0):
         return getPin(username)
 
 class PhonePe:
-    def __init__(self, username, password) -> None:
+    def __init__(self, username) -> None:
         self.username = username
-        self.__password = password
         self.__balance = users[username]["balance"]
     
     def getBalance(self):
