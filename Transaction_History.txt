@@ -1,2 +1,12 @@
 
-2024-03-13 14:43:38.972539 --> Mansoor sent 25000Rs to Sweshik --> -25000Rs
+2024-03-15 14:35:41.091960 --> Nipun sent 50Rs to Sweshik --> -50Rs
+
+2024-03-15 14:36:02.429120 --> Nipun requested 10000Rs from Sweshik --> +10000Rs
+
+2024-03-15 14:36:35.143539 --> Nipun paid Electricity bill for 23Rs --> -23Rs
+
+2024-03-15 18:48:44.264556 --> Niranjani sent 12000Rs to Sweshik --> -12000Rs
+
+2024-03-15 18:49:26.581085 --> Niranjani paid Electricity bill for 800Rs --> -800Rs
+
+2024-03-15 18:50:03.403377 --> Niranjani requested 12000Rs from Sweshik --> +12000Rs

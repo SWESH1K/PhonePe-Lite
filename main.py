@@ -5,4 +5,4 @@ if __name__ == "__main__":
     username,password = userLogin()
     User = PhonePe(username)
     choice = userChoice()
-    User.ui_board(choice)   
+    User.ui_board(choice)

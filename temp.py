@@ -21,13 +21,15 @@ def cache(function):
 # @internet
 @cache
 def hello(name):
+    sleep(2)
     print("How are you?",name)
 
 
 def main():
-    hello("Lucky")
+    hello("Nipun")
     # hello("Lucky")
     hello("sweshik")
+    hello("Nipun")
     # hello("sweshik")
 
 

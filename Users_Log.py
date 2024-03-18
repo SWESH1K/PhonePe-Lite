@@ -2,7 +2,7 @@ users = {
     "Sweshik": {
         "password": "password1",
         "pin": 1234,
-        "balance": 86114
+        "balance": 76164
     },
     "Lucky": {
         "password": "password2",
@@ -18,5 +18,15 @@ users = {
         "password": "djlal",
         "pin": 1843,
         "balance": 75000
+    },
+    "Nipun": {
+        "password": "bunny",
+        "pin": 6576,
+        "balance": 10044
+    },
+    "Niranjani": {
+        "password": "kunnu",
+        "pin": 1234,
+        "balance": 99200
     }
 }
